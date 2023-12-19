@@ -42,6 +42,8 @@ We undertook a meticulous feature engineering process to enhance the predictive 
 - This plot illustrates how a majority of the train essays were predicted to be human-written even across a wide range of sentiment scores, which makes sense because the data were mostly composed of human-written essays. Those predicted to be written by AI tended to have a higher sentiment score.
 ![1wyHHl-d7MAdjAEpodsbEQ-9QCqnQUEEoSb6KcqoevPmjxTK_vY5XJy5VaOVtqAo1lvoLfdZ4A_RNVmezapRxgoiTVOtfNZ4u6P6_kUn0GXaxoXOmFQ_lRWO5XCE](https://github.com/jojo142/Detecting-AI-Generated-Text/assets/76130563/fe7b8797-bd60-4797-9fca-e43320f28c85)
 
+- For the voting classifier model, the sentiment analysis feature had the largest positive impact on ROC AUC score when compared to the other features.
+<img width="478" alt="0FeHSn3w0fHLEazlB_EUGdbFYQBAz9kIQ2GOskHqXMCecyCMsC-3mG7D6CcKH-NvhrPhdR_185EnYIaQ5AkzXeP43V4NqGVmEdi4IifWk1liFg3TWQgnAMi4Z5oz" src="https://github.com/jojo142/Detecting-AI-Generated-Text/assets/76130563/eadb0e1d-38c6-43b1-a675-4232dfd9a4af">
 
 
 ### Models
